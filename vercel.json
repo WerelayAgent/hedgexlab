@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "https://usehedge.fun/api/$1" },
+    { "source": "/explore", "destination": "/explore.html" },
+    { "source": "/launch", "destination": "/launch.html" },
+    { "source": "/creator", "destination": "/creator.html" },
+    { "source": "/portfolio", "destination": "/portfolio.html" },
+    { "source": "/how-it-works", "destination": "/how-it-works.html" },
+    { "source": "/token/(.*)", "destination": "/index.html" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}

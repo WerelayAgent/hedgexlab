@@ -1,0 +1,1 @@
+import{t as e}from"./fee-terminal-C8lwH4wC.js";var t=e;export{t as component};

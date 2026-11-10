@@ -1,0 +1,12 @@
+{
+  "name": "hedgexlab",
+  "version": "1.0.0",
+  "description": "Hedgex Lab ($HEDGEX) — Launch tokens. Manage exposure. Own your market.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "author": "WerelayAgent",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+var e={version:1,asset_id:`3fd32e25-e653-4100-b685-67d6fa346266`,project_id:`8e405cf8-da96-409e-90ef-faa77bcdbae5`,url:`/media/3fd32e25-e653-4100-b685-67d6fa346266/sol.png`,r2_key:`a/v1/8e405cf8-da96-409e-90ef-faa77bcdbae5/3fd32e25-e653-4100-b685-67d6fa346266/sol.png`,original_filename:`sol.png`,size:807,content_type:`image/png`,created_at:`2026-11-09T23:08:37Z`};export{e as t};

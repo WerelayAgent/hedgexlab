@@ -1,0 +1,1 @@
+import{g as e,m as t,p as n}from"./queries-C7eH8FSQ.js";function r(r,i){return n({...r,enabled:!0,suspense:!0,throwOnError:t,placeholderData:void 0},e,i)}export{r as t};
